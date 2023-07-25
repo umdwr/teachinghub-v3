@@ -1,0 +1,152 @@
+/* override table no-wrap */
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+  white-space: normal;
+}
+
+
+button {
+
+}
+
+.button {
+    background-color: #2980B9; /* Blue */
+    border: none;
+	  width: 100%;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.orangebutton {
+    background-color: #BA6329; /* Orange */
+    border: none;
+	  width: 100%;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.greenbutton {
+    background-color:	#1abc9c; /* Green */
+    border: none;
+	  width: 100%;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.greenbutton2 {
+    background-color:	#1abc9c; /* Green */
+    border: none;
+	  width: 100%;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button1 {
+   background-color: #303030; /* Dark Gray */
+    border: none;
+	  width: 100%;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+}
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.orangebutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	background-color: #a5541d;
+}
+
+.greenbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	background-color: #12836d;
+}
+
+.greenbutton2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	background-color: #12836d;
+}
+
+.greenbutton2:focus {
+	background-color: #12836d;
+}
+
+.greenbutton:focus {
+	background-color: #12836d;
+}
+
+.orangebutton:focus {
+	background-color: #a5541d;
+}
+	
+.funbox{ 
+      background-color: #EEEEEE;
+	padding: 1em
+    }
+
+.bluebox {
+background-color: #3498db; padding: 1em; color: white;
+}
+
+.bluebox:a{
+	color: white;
+}
+
+/* (A) FLEXIBLE CONTAINER */
+.cols {
+  display: flex;
+  width: 100%;
+}
+ 
+/* (B) COLUMN WIDTH */
+.colA { width: 50%; }
+.colB { width: 50%; }
+ 
+/* (C) COSMETICS - NOT IMPORTANT */
+.cols div {
+  padding: 5px;
+}
+
+/* (D) RESPONSIVE */
+@media all and (max-width:768px) {
+  .cols { flex-wrap: wrap; }
+  .colA, .colB { width: 100%; }
+}

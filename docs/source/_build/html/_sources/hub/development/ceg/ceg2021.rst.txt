@@ -1,0 +1,191 @@
+Teacher Development Workshops (2021-2022)
+=========================================
+
+During Fall 2021, join your DWR colleagues for workshops related to their DWR Summer 2021 :doc:`/hub/development/ceg/cegcfp`.  Workshops will run ­­approximately twice a month and will be recorded for remote viewing.  Grant recipients and presenters include Tyler Gillespie, Kate Hooper, Deidra Jackson, Rachel Johnson, Alice Myatt, Susan Nicholas, Amber Nichols-Buckley, Jeanine Rauch, Colleen Thorndike, and Don Unger.
+
+Coming Up Next
+--------------
+.. Admonition:: Workshop Info
+
+    .. _ceg0422: 
+    .. workshop fields:
+
+    :Title: Thinking Little: Civic Engagement on a Local Level
+    :Presenter: Emily Cooley
+    :Date: Monday April 4, 11:00AM CDT
+    :Modality: Virtual
+    :Description: In the workshop, we will discuss ways to help our students "think little" by engaging with their research topics on a local level. I will be using my Argument for Positive Change Research Essay and Multimodal Letter for Change assignment prompts as examples. 
+    :Event Details: `Event Details <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=24>`_
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJIpceCupz0oG9ah92fYhR8cpBghxmgAcFBZ>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg0522: 
+    .. workshop fields:
+
+    :Title: Reflection versus Justification:  A Preliminary Study of How Writing Feedback Influences FYC Writing Students
+    :Presenter: Mary Ann Parker and Ellen Shelton
+    :Date: April 2022 (TBA)
+    :Modality: TBA
+    :Description: In order to gain a greater understanding of the effects of feedback on FYC students’ mindsets toward writing, one DWR instructor (Mary Ann Parker) and one DWR lecturer (Ellen Shelton) have piloted a quantitative study designed to discover how teachers are assigning and responding to student writing in high school classrooms and how FYC students perceive the effects of those written comments through the lens of their first-year writing composition course in college.
+    :Access: Registration Link Coming Soon
+
+Workshop Recordings
+----------------------------
+
+.. Admonition:: Workshop Info
+
+    .. _ceg1: 
+    .. workshop fields:
+
+    :Title: Mindful Moments: Contemplative Pedagogy in the Writing Classroom
+    :Presenters: Tyler Gillespie, Susan Nicholas, Amber Nichols-Buckley
+    :Date: Tuesday September 7, 1:00 CDT
+    :Modality: Virtual
+    :Description: In this workshop, Susan Nicholas, Tyler Gillespie, and Amber Nichols-Buckley will share research on the benefits of contemplative pedagogy for teachers and students and provide concrete resources, including meditation exercises, mindfulness prompts that could be used for reflection or process work (like peer review!), and contemplative class activities. We will end the workshop with a brief mindfulness session and a discussion with teachers on how to get started.
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23c46169-8f74-4588-aeb1-ad9c013a83aa>`_
+    :Materials: `Slideshow with Resources <https://docs.google.com/presentation/d/1INHVVX0RG_gNONclugBESwnLNdYtSz2rEFvxtbx9DfA/edit#slide=id.g35f391192_00>`_ 
+
+.. Admonition:: Workshop Info
+
+    .. _ceg2: 
+    .. workshop fields:
+    
+    :Title: Advancing Student Learning with Digital Tools (Paired Workshops)
+    :Date: Thursday September 30, 10:00 - 11:30 CDT
+    :Modality: Virtual
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0380e42-e5df-41c7-a285-adb3010e2d28>`_
+
+    .. workshop fields:
+
+    :Title: Connecting… Creating a Class Blog Network for Meaningful Online Conversations
+    :Presenter: Colleen Thorndike
+    :Time: 10:00am CDT 
+    :Description: This presentation will discuss the benefits of using blogs and a class blog network (RSS feed) for discussion in online classes. Blogs are a great alternative to discussion boards and can cultivate an online class community. While the focus of this presentation is online classes, this strategy can also be used in hybrid and/or in-person classes.
+    :Resources: `Slideshow <https://docs.google.com/presentation/d/1waji7G7Rcg0l8yeXind72iy5m0KlqiR-YZ66EjCvtPY/edit?usp=sharing>`_
+
+    .. workshop fields:
+
+    :Title: Advancing Student Skills with Synthesis and Timed Writing
+    :Presenter: Alice Myatt
+    :Time: 10:45am CDT 
+    :Description: In this presentation, I review an assignment sequence that combines timed writing with synthesizing sources for a literature review. The timed writing is divided into sections that, taken in sequence, lead students to produce synthesized paragraphs that they may then incorporate into other writing assignments. One part of the workshop will offer suggestions for incorporating this approach with other units (for courses that may not have a timed writing assignment). Resources will include a shared Google Drive folder that has the timed writing unit sequence and synthesis specific resources from Excelsior OWL and other online sites.
+    :Resources: `Google Drive Folder <https://drive.google.com/drive/folders/1xEDL4PCMS7K9Q2t7iWGoBOBAsRuvr9JZ?usp=sharing>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg3: 
+    .. workshop fields:
+
+    :Title: Making the Most of Group Presentations on a Shortened Timeline 
+    :Presenter: Kate Hooper
+    :Date: Thursday October 14, 3:00pm CDT
+    :Modality: Virtual
+    :Description: In this presentation, Kate Hooper will share methods for leveraging group presentations to advance curricular goals when the course schedule provides little (if any) wiggle room. She will share the problems she faced and solutions she implemented for developing group projects and presentations during intersessions, summer sessions, and Web courses. Relevant for anyone who has a group project with a presentation element.
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9c8d0a7e-cdc7-488f-bc08-adc10157fe22>`_
+    :Materials: `Slideshow with Resources <https://olemiss-my.sharepoint.com/:p:/g/personal/kmhooper_olemiss_edu/EUerirVyjuJGvrbmHBA8RPEBeWoYYqWSmlkh2hp4zO_yHw?rtime=8q90MtaT2Ug>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg5:
+    .. workshop fields:
+
+    :Title: *Bringing the Writing Center to the Classroom: Creative Ways to Enhance Peer Collaboration and Learning*
+    :Presenter: Rachel Johnson 
+    :Date: Monday November 1, 2021, 1:00pm CDT
+    :Modality: Face-to-Face 
+    :Location: Oxford Writing Center
+    :Access: `Watch the Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=590bf6a9-8503-4706-99e8-add301385485>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg4:
+    .. workshop fields: 
+
+    :Title: *Blown Cover: Why Calling my Students 'Scholarly Academic Researchers!' Did Not Alter Their Mindsets When They are Simply Trying to Get from One Research Paper to the Other*
+    :Presenter: Deidra Jackson
+    :Date: Wednesday November 10, 11:00am CST
+    :Modality: Virtual
+    :Access: `Vew Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c2acf8-da63-4107-ad68-addc0132c45a>`_
+
+.. Admonition:: Workshop Info
+
+    .. _ceg6: 
+    .. workshop fields:
+    
+    :Title: Teaching Beyond the Classroom: DWR and the Community (Paired Workshops)
+    :Date: Wednesday December 1, 2:00 - 3:30 CST
+    :Modality: Virtual
+    :Access: `View Workshop Stream <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87379dff-3915-401e-9022-adf101662d3f>`_
+
+    .. workshop fields:
+
+    :Title: Enhancing Writing Skills with Middle School and High School Students from North Panola County 
+    :Presenter: Jeanine Rauch
+    :Time: 2:00pm CST 
+    :Description: This workshop will present writing techniques used to help middle school and high school students understand the importance of Audience and Purpose within an essay, practice community mapping, writing for change, and place-based arguments. Discussion will also take place on ways to outreach our services to the surrounding counties or communities.
+
+    .. workshop fields:
+
+    :Title: Starting a Conversation about a Community Literacy Center at the University of Mississippi
+    :Presenter: Don Unger
+    :Time: 2:45pm CST 
+    :Description: As Department of Writing & Rhetoric faculty members consider how to expand existing partnerships with the North Panola School District in Panola County and the Marks Project in Quitman County, among others, this presentation describes how a community literacy center could provide vital infrastructure for such work. Integral to that, this presentation opens up a conversation about the role that community literacy centers play for academic departments, their institutions, and local communities. In this presentation, I will discuss: how these centers reflect the research, teaching, and/or service missions of their home departments; how these centers are structured, including programming, services, and staffing; and how these centers impact different stakeholders
+    
+.. Admonition:: Workshop Info
+    
+    .. _ceg0122:
+
+    :Title: “I’m fixing to talk about” – Keeping your speaking/writing style while adapting to your audience
+    :Presenters: Carrie McCormick
+    :Date: Wednesday January 26, 1:00PM CST
+    :Modality: In-Person
+    :Description: The workshop will begin with a quick lesson on knowing one’s audience, move into an exercise that utilizes The New York Times dialect quiz, “How Y’all, Youse and You Guys Talk” to discuss and draw attention to various speech patterns. The workshop will contain an interactive activity focusing on our own distinctive word use/dialect and how that can create in/out group membership, and end with discussing potential assignments in each of your classes. 
+    :Location: Lamar Hall 323 (DWR Conference Room)
+    :Access: `View Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dcfb77e0-a0a3-4a61-b4de-ae290139eb18>`_
+
+
+.. Admonition:: Workshop Info
+
+    .. _ceg0222: 
+    .. workshop fields:
+    
+    :Title: Teaching Outside the Box: New Approaches to Reaching Students (Paired Workshops)
+    :Date: Tuesday February 15, 1:00PM - 2:30PM CST
+    :Modality: Virtual
+    :Access: Registration Link Coming Soon
+    :Access: `View Workshop Recording <https://olemiss.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=094880d8-49bf-4841-b1e8-ae3d01576bb2>`_ 
+
+    .. workshop fields:
+
+    :Title: Journaling Naked:  The Unplugged Assignment in Online Instruction
+    :Presenter: Dixon Bynum
+    :Time: 1:00PM CST 
+    :Description: Even with the best pedagogical practices, the online classroom can often remain a limited, virtual space for students, especially so during a pandemic.  Incorporating assignments which emphasize experiential learning and reduce the use of technology (hence "naked") can help counteract this perception and aid in student reflection.  This workshop will introduce two informal writing assignments used in WRIT 101 and 102 that employed experiential learning and cover student survey reactions to those assignments.
+
+    .. workshop fields:
+
+    :Title: Teaching to Support Executive Function
+    :Presenter: Meredith Harper
+    :Time: 1:45PM CST 
+    :Description: “Executive function” refers to the mental processes that govern one’s ability to focus on tasks and juggle information. This presentation will provide an overview of current scholarship on the role of executive function in learning at the university level. Drawing from educational and cognitive psychological research, this presentation will inform attendees about the different processes that comprise executive function and how these cognitive processes impact students’ ability to read, write, and think critically. 
+
+
+.. Admonition:: Workshop Info
+
+    .. _ceg0322: 
+    .. workshop fields:
+
+    :Title: Using Creative Writing Techniques to Write Academic Research Essays
+    :Presenter: Jeanine Rauch
+    :Date: Wednesday March 2, 1:00PM CST
+    :Modality: Virtual
+    :Description: This workshop will cover various creative writing techniques that will prompt students to find alternative ways get their ideas on paper for their academic research paper. 
+    :Event Details: `View Event and Add to Calendar <https://olemiss.sharepoint.com/sites/DWRAdmin/_layouts/15/Event.aspx?ListGuid=e151e3cb-20fe-4783-8c5c-ae560b888009&ItemId=22>`_
+    :Access: `Register for Zoom Meeting <https://olemiss.zoom.us/meeting/register/tJErdOGtrjIjHdaZknjFx3xp62mNJGUf3PKl>`_
+
+
+
+
+
+
