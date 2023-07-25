@@ -15,6 +15,7 @@ release = '3'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    'githubpages'
 ]
 
 templates_path = ['_templates']
