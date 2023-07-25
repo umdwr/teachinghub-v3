@@ -52,8 +52,4 @@ html_css_files = [
     'custom.css',
 ]
 
-html_context = [
-    'display_github': True,
-    'github_repo': 'umdwr/teachinghub-v3',
-]
 
