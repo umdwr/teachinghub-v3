@@ -10,7 +10,7 @@ Welcome to myDWR Teaching Hub's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Here is some new text on the new hub! 
+Here is some new text on the new hub! It's really fun. 
 
 
 
