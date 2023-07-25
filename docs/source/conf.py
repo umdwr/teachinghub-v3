@@ -15,6 +15,7 @@ release = '3'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    'sphinx.ext.viewcode'
 ]
 
 templates_path = ['_templates']
