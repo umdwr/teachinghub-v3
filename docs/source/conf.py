@@ -12,7 +12,7 @@
 #
 # import os
 # import sys
-import sphinx_rtd_theme
+# import sphinx_rtd_theme
 # sys.path.insert(0, os.path.abspath('.'))
 
 
@@ -29,7 +29,6 @@ author = 'DWR'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_rtd_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
