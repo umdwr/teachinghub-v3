@@ -1,0 +1,34 @@
+=====================
+Fall 2016 Orientation 
+=====================
+
+Teachers led workshops on various topics on the Thursday and Friday after Fall 2016 Orientation. Their workshop materials are posted here.
+
+.. workshop fields::
+
+:Title: Managing Difficult Classroom Conversations
+:Workshop Leader: `Angela Green <mailto:akgreen2@olemiss.edu>`__
+:Materials: * `Handout <https://olemiss.box.com/s/gvdodymveys8ukwrdbng5j4dqplh9u8h>`__
+    * `DWR CompTalk Reading Groups <http://rhetoric.olemiss.edu/comptalk/reading-groups/>`__
+    * `Handbook for Facilitating Difficult Conversations in the Classroom <https://www.qc.cuny.edu/Academics/Centers/Democratic/Documents/Handbook%20for%20Facilitating%20Difficult%20Conversations2.pdf>`__
+    * `Preparing Students for Difficult Conversations <https://www.facinghistory.org/resource-library/facing-ferguson-news-literacy-digital-age/preparing-students-difficult>`__
+    * `How To Tell People They Sound Racist <http://www.illdoctrine.com/2008/07/how_to_tell_people_they_sound.html>`__
+    * `How to Listen When You Disagree: A Lesson from the Republican National Convention <http://urbanconfessional.org/blog/howtodisagree?utm_content=bufferf5a82&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>`__      
+    * `Establishing Ground Rules <https://www.cte.cornell.edu/teaching-ideas/building-inclusive-classrooms/establishing-ground-rules.html>`__
+    * `Project Implicit <https://implicit.harvard.edu/implicit/selectatest.html>`__
+
+-------------------
+
+.. workshop fields::
+
+:Title: Student-Teacher Conferencing
+:Workshop Leaders: `Whit Hubbard <mailto:wahubbar@olemiss.edu>`__ and `Alison Hitch <mailto:alhitch@olemiss.edu>`__
+:Materials: `Handout <https://olemiss.box.com/s/ymmp1kw1aqhidyoogrd8foq88d9zf2k7>`__
+
+----------------------
+
+.. workshop fields::
+
+:Title: Helping Students: Toward Dynamic Presentations by Managing Speaking Anxiety
+:Workshop Leaders: `Kate Hooper <kmhooper@olemiss.edu>`__ and `Ellie Moore <emmoore5@olemiss.edu>`__
+:Materials: `PowerPoint <https://olemiss.box.com/s/l4kw9hztflpcfjvbv3sy7ebaetowuo44>`__

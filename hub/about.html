@@ -1,0 +1,171 @@
+
+
+<!doctype html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About the Teaching Hub &#8212; myDWR Teaching Hub 3 documentation</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/bizstyle.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
+    <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+    
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/bizstyle.js"></script>
+    <link rel="shortcut icon" href="../_static/favicon.ico"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Speech Courses" href="../guides/speech.html" />
+    <link rel="prev" title="DWR Teaching Hub" href="../index.html" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <!--[if lt IE 9]>
+    <script src="_static/css3-mediaqueries.js"></script>
+    <![endif]-->
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../guides/speech.html" title="Speech Courses"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="../index.html" title="DWR Teaching Hub"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">myDWR Teaching Hub 3 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">About the Teaching Hub</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="about-the-teaching-hub">
+<h1>About the Teaching Hub<a class="headerlink" href="#about-the-teaching-hub" title="Permalink to this headline">¶</a></h1>
+<p>Welcome to the third iteration of the DWR Teaching Hub. In Summer 2021, we decided it was time to migrate the Teaching Hub away from the WordPress platform where it has lived for the last several years. Since the Teaching Hub primarily serves text that is often changing and because of the robust cloud storage options provided by the University, the complexity and vulnerability of a database-centric CMS for the Teaching Hub is no longer warranted.</p>
+<p>The Teaching Hub’s new platform is a Python-based documentation generator engine called <a class="reference external" href="https://www.sphinx-doc.org/en/master/">Sphinx</a> hosted through a service called <a class="reference external" href="https://readthedocs.org/">ReadTheDocs</a>. The primary advantage to this approach is that the Teaching Hub no longer has any significant security vulnerabilities because there is no database. Static, versioned documentation is also a best practice for professional technical communicators.</p>
+<div class="section" id="editing-the-teaching-hub">
+<h2>Editing the Teaching Hub<a class="headerlink" href="#editing-the-teaching-hub" title="Permalink to this headline">¶</a></h2>
+<div class="sidebar">
+<p class="sidebar-title">GitHub edits</p>
+<div class="figure align-default">
+<img alt="../_images/ghedit.png" src="../_images/ghedit.png" />
+</div>
+<p>To edit any Teaching Hub page on GitHub, click the pencil to open the text editor.</p>
+</div>
+<p>Anyone can submit edits to the DWR Teaching Hub. If you notice a typo, an error, or outdated information anywhere on the Teaching Hub, you can correct it by clicking <strong>Edit on GitHub</strong> in the top right of the page. You’ll need to log in to GitHub to submit edits. You can sign in with any Microsoft account or create a brand new account by clicking “Sign Up” in the top right.</p>
+<p>Once you’re logged in to GitHub, click the pencil icon to edit the page.</p>
+<div class="section" id="restructured-text">
+<h3>ReStructured Text<a class="headerlink" href="#restructured-text" title="Permalink to this headline">¶</a></h3>
+<p>All Teaching Hub pages are written in a markup language called ReStructured Text. ReST is similar to Markdown in that it allows you to design complex documents with multiple formats using only plain text. Once you get the hang of it, it’s just as fast as writing a document in Word or Google Docs and you don’t have to worry about how it will be displayed on the web.</p>
+<div class="admonition-more-information admonition">
+<p class="admonition-title">More Information</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html">Read about the ReST markup language used by Sphinx</a></p></li>
+<li><p><a class="reference external" href="https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html">ReStructured Text/Sphinx Cheat Sheet</a></p></li>
+</ul>
+</div>
+<p>Fixing typos or errors in content doesn’t require the use of ReST markup. Just looking at the raw version of a page in the GitHub editor should show you everything you need to know.</p>
+</div>
+<div class="section" id="submitting-an-edit">
+<h3>Submitting an Edit<a class="headerlink" href="#submitting-an-edit" title="Permalink to this headline">¶</a></h3>
+<div class="figure align-default">
+<img alt="../_images/ghpullreq.png" src="../_images/ghpullreq.png" />
+</div>
+<p>Enter a title and a brief description of your page edits and subnit a Pull Request.</p>
+<p>When you are done making edits to a page, write a title and description of the changes you made and click <strong>Propose Changes</strong>. This creates a <a class="reference external" href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">GitHub Pull Request</a> on the Teaching Hub main repository. We’ll review the edits and, if accepted, we’ll merge them into the production version of the Teaching Hub.</p>
+<p>Don’t worry about messing something up. Pull Requests have to be approved before they alter production pages. If you make a mistake in your Pull Request, we’ll either ask you to fix or or fix it ourselves before merging it into the live Teaching Hub.</p>
+<p>Questions? Contact <a class="reference external" href="mailto:addavis&#37;&#52;&#48;olemiss&#46;edu">Andrew Davis</a>.</p>
+</div>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+            <p class="logo"><a href="../index.html">
+              <img class="logo" src="../_static/logo.png" alt="Logo"/>
+            </a></p>
+  <div>
+    <h3><a href="../index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">About the Teaching Hub</a><ul>
+<li><a class="reference internal" href="#editing-the-teaching-hub">Editing the Teaching Hub</a><ul>
+<li><a class="reference internal" href="#restructured-text">ReStructured Text</a></li>
+<li><a class="reference internal" href="#submitting-an-edit">Submitting an Edit</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="../index.html"
+                          title="previous chapter">DWR Teaching Hub</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="../guides/speech.html"
+                          title="next chapter">Speech Courses</a></p>
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/hub/about.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../guides/speech.html" title="Speech Courses"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="../index.html" title="DWR Teaching Hub"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">myDWR Teaching Hub 3 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">About the Teaching Hub</a></li> 
+      </ul>
+    </div>
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a><br>Content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> unless otherwise indicated.
+    
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2023, DWR.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.5.0.
+    </div>
+
+  </body>
+</html>
