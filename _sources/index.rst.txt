@@ -10,6 +10,8 @@ Welcome to myDWR Teaching Hub's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+Here is some new text on the new hub! 
+
 
 
 Indices and tables
