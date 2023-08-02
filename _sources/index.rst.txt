@@ -41,7 +41,8 @@ Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching reso
    guides/civil
    guides/rhetlab
    guides/ballot
-   guides/continuity 
+   guides/continuity
+   guides/dmds 
 
 .. toctree::
    :maxdepth: 3
