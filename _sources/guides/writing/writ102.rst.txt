@@ -14,41 +14,15 @@ WRIT 102
 Course Design
 -------------
 
-WRIT 102 (First-Year Writing II) is a theme-based, first-year,
-second-semester writing course designed to build on writing skills
-learned in either WRIT 100 or WRIT 101 and develop critical thinking and
-research skills appropriate for use in academic writing. The course pays
-special attention to developing argumentative skills, analyzing texts,
-and synthesizing information into thoughtful, coherent essays and
-projects.
+WRIT 102 (First-Year Writing II) is a theme-based, first-year, second-semester writing course designed to build on writing skills learned in either WRIT 100 or WRIT 101 and develop critical thinking and research skills appropriate for use in academic writing. The course pays special attention to developing argumentative skills, analyzing texts, and synthesizing information into thoughtful, coherent essays and projects.
 
-The five themes are Business, Environment, Food, Pop Culture, and
-Power/Privilege. Each theme will use different readings from different
-textbooks, but the learning outcomes of the course and the assignments
-remain the same. The prerequisite for WRIT 102 is the successful
-completion (at least a D) in WRIT 100/101 or other similar course or AP
-credit. Classes are limited to 21 students. WRIT 102 is similar to LIBA
-102 in that both fulfill the same requirements for graduation; Students
-will take either WRIT 102 or LIBA 102, but should not take both.
+The five themes are Business, Environment, Food, Pop Culture, and Power/Privilege. Each theme will use different readings, but the learning outcomes of the course and the assignments remain the same. The prerequisite for WRIT 102 is the successful completion (at least a D) in WRIT 100/101 or other similar course or AP credit. Classes are limited to 21 students. WRIT 102 is similar to LIBA 102 in that both fulfill the same requirements for graduation; Students will take either WRIT 102 or LIBA 102, but should not take both.
 
-Each WRIT 102 instructor will be assigned a subject librarian who can
-lead or assist instruction in using library services. WRIT 102
-instructors should coordinate with this librarian by sharing assignments
-and learning goals. It is courteous for instructors to stay with the
-class during this instruction period. If instructors plan to miss class
-during this library visit, they should arrange to have another W&R
-instructor there. The librarians have also created `courses pages for
-WRIT 102 <http://guides.lib.olemiss.edu/writ102?hs=a>`__ which can be
-found here.
+WRIT 102 instructors have opportunities to work with subject librarians who can lead or assist instruction in using library services. Instructors also have access to classrooms in the library that can be reserved. Librarians can also share or create offline tutorials. The librarians have also created `course pages <https://guides.lib.olemiss.edu/writ102?hs=a>`_ for WRIT 102 for each theme.
 
-Instructors should hold at least one mandatory conference with students.
-It is recommended that this is done during the research paper drafts.
-Instructors may cancel classes to hold these conferences but
-cancellations should be comparable to the number of courses one teaches
-and should not extend beyond one week.
+Instructors should hold at least one mandatory conference with students. It is recommended that this is done during the research paper drafts. Instructors may cancel classes to hold these conferences but cancellations should be comparable to the number of courses one teaches and should not extend beyond one week.
 
-As is the case in every writing course, peer review and timely
-instructor feedback are important to student success.
+As is the case in every writing course, peer review and timely instructor feedback are important to student success.
 
 .. admonition:: Sample Syllabus
 
@@ -57,27 +31,24 @@ instructor feedback are important to student success.
 Required Texts
 --------------
 
-**Each Theme has a Separate Textbook**
+**Our philosophy on textbooks:** As a theme-based class, WRIT 102 relies on suitable and timely readings that give instructor and student the flexibility in developing synthesis, research, and multimodal assignments. We are also dedicated to lowering cost, using OER materials whenever available. Though we have used readers and textbooks in the past with success, materials go out of date quickly, and prices have become prohibitive. Further, the number of readings we can assign in a semester is not enough to justify the cost. For most themes, readings can be found online and can be shared between instructors.
 
-================== ============================================================================================
-Theme              Book 
-================== ============================================================================================
-Business           *Money*, Fountainhead Press
-Environment        *American* Earth, Library of America
-Food               *Food: A Reader for Writers*, Oxford University Press (spring: Food Common Read)
-Power & Privilege  *Rereading *America*, 10th edition, Bedford/St. Martins
-Pop Culture        *Reading Pop Culture: A Portable Anthology*, 2nd edition, Bedford/St. Martin’s
-================== ============================================================================================
+The only exceptions are:
+
+**Business themes** use the *Wall Street Journal* at a cost of $4 per month for students and free for instructors. This is set up independently though WSJ in their `WSJ for Instructors program <https://education.wsj.com/instructors/>`_. Scroll down for the WSJ Referral Program which allows you to set up an account and receive a link that you can give to your students. There are other resources on this page.
+
+**Food theme, spring semesters,** use the food common read offered in partnership with Southern Foodways Alliance. These are usually popular printed books and will always be in paperback. This common read is available for other themes if there is interest
+
+**APA materials and writing guides** are offered through the DWR Assignment library and trusted online sources.
+
+If an instructor would like to use a different reader, textbook, or handbook, please contact Wendy Goldberg (`goldberg@olemiss.edu <mailto:goldberg@olemiss.edu>`_), the WRIT 102 core lecturer for committee consideration.
+
+**All WRIT 102 classes course materials that incur a cost need committee approval, even if you have been using these in WRIT 102 classes.**
 
 Assignment Sequence
 -------------------
 
-WRIT 102 has six major assignments in roughly this sequence: Analysis,
-Synthesis, In-Class, Research, Multimodal, Commonplace Book. Each paper
-assignment should teach fundamentals of academic writing, including
-learning to find and evaluate sources, learning how to integrate and
-cite these sources correctly, and learning how to create a unique thesis
-in response to these sources.
+WRIT 102 has four major assignments in roughly this sequence: Synthesis, Research, Multimodal, and Reflective writing and three projects that support the major assignments. Instructors may also include short writing, including timed writing, as well as other homework assignments. Each assignment should teach fundamentals of academic writing, including learning to find and evaluate sources, learning how to integrate and cite sources correctly, and learning how to develop a unique thesis in response to these sources.
 
 .. admonition:: See Also
 
@@ -87,134 +58,56 @@ in response to these sources.
 Major Projects
 --------------
 
-Students compose six major projects. A brief overview of each project,
-with a description of the areas students usually struggle with, is
-provided below.
+Students compose four major projects. A brief overview of each project, with a description of the areas students usually struggle with, is provided below.
 
 
 Synthesis
 ~~~~~~~~~~
 
-Paper #2 is a synthesis paper where students weigh at least two
-different arguments and synthesize a thesis in relation to these
-arguments. The skills learned in the synthesis paper should support the
-work done for the research paper. To that end, the WRIT 102 curriculum
-committee has offered two different tracks for the synthesis paper in
-the assignment library, with the recognition that these approaches are
-not necessarily mutually exclusive. The first track practices locating,
-evaluating, and synthesizing sources, and the second track, focuses on
-developing a unique position in response to given texts. For either
-track, students should engage with 2-3 sources and practice citation in
-a 4-5 page paper. The Synthesis paper is worth 15-20% of the student’s
-final grade.
+The first major project is a synthesis paper where students weigh different arguments and synthesize a thesis in relation to these arguments. The skills learned in the synthesis paper should support the work done for the research paper. To that end, the WRIT 102 curriculum committee has offered two different tracks for the synthesis paper in the assignment library, with the recognition that these approaches are not necessarily mutually exclusive. The first track practices locating, evaluating, and synthesizing sources, and the second track, focuses on developing a unique position in response to given texts. For either track, students should engage with 2-3 sources and practice citation in a 4-5 page paper. The Synthesis paper is worth 20% of the student's final grade.
 
-This is probably the most difficult assignment in the WRIT 102 sequence.
-Students are confused about what defines a synthesis essay because it
-does not fit into familiar and practiced models of writing. The WRIT 102
-committee, after lengthy discussions, essentially agrees with this
-assessment because of our own divergent opinions. See the WRIT 102
-synthesis in the assignment library for more information on this
-discussion and the committee’s conclusion.
+This is probably the most difficult assignment in the WRIT 102 sequence. Students are confused about what defines a synthesis essay because it does not fit into familiar and practiced models of writing. The WRIT 102 committee, after lengthy discussions, essentially agrees with this assessment because of our own divergent opinions. See the WRIT 102 synthesis in the assignment library for more information on this discussion and the committee's conclusion. The concept of synthesis becomes clearer once students start the research paper and they apply the lessons learned there.
 
 .. admonition:: Areas to Highlight
 
-    Instructors should go over plagiarism issues such as
-    correct citation and using paraphrases as well as other skills that will
-    help students succeed in the research paper. Students struggle with
-    balancing their sources; students may also have trouble maintaining
-    their writing voice in relation to the sources. If using two sources,
-    students may need help in avoiding a compare and contrast paper.
-
-In-Class Essay
-~~~~~~~~~~~~~~~
-
-The in-class essay is a timed writing exercise where students may do
-similar work as in papers 1 and 2 in that students might be asked to
-respond to a particular text or argument or evaluate a text’s argument.
-This may be related to paper #3, the research paper. The in-class essay
-is worth 5-10% of the student’s final grade.
-
-.. admonition:: Areas to Highlight
-
-    Timed writing can be intimidating to many students.
-    Going over strategies to alleviate stress will be useful for this
-    assignment and for future timed writing situations. Further, students
-    may believe the writing process does not apply to timed essays but
-    instructors should model how to use brainstorming/outlining, drafting,
-    and revision in this context, with special attention to time management.
-    Students who do not do well in this assignment often do not prepare for
-    the in-class essay or do not read the prompt carefully. Instructors may
-    also opt for a practice timed essay in class. Students who need special
-    accommodation should provide the appropriate paperwork from `Student
-    Disability Services <http://sds.olemiss.edu/accomodations/>`__.
+   Instructors should go over plagiarism issues such as correct citation and using paraphrases as well as other skills that will help students succeed in the research paper. Students struggle with balancing their sources; students may also have trouble maintaining their writing voice in relation to the sources. If using two sources, students may need help in avoiding a compare and contrast paper.
 
 Research Paper
 ~~~~~~~~~~~~~~~~
 
-Paper #3 is the research paper where students will develop a research
-question relevant to the class theme. This paper should be 7-9 pages and
-use at least seven credible sources. This assignment is worth 25% of the
-student’s final grade.
+n the research paper, students will develop a research question relevant to the class theme. This paper should be 7-9 pages and use at least seven credible sources. This assignment is worth 25% of the student's final grade.
 
 .. admonition:: Areas to Highlight
 
-    This is the most intimidating assignment for
-    students. Many of them may have never written this length of paper. Some
-    may have only written an “informational” research paper and not an
-    argumentative one. Since the class spends nearly a month of class
-    periods on this assignment, the sequence of homework assignments,
-    in-class work, and other elements of the process are important to a
-    student’s success. Emphasize their many avenues of support – the
-    instructor, their peers, the consultants in the Writing Center, and the
-    reference librarians.
+    This is the most intimidating assignment for students. Many of them may have never written this length of paper. Some may have only written an “informational” research paper and not an argumentative one. Since the class spends nearly a month of class periods on this assignment, the sequence of homework assignments, in-class work, and other elements of the process are important to a student's success. Emphasize their many avenues of support – the instructor, their peers, the consultants in the Writing Center, and the reference librarians.
 
 Multimodal
 ~~~~~~~~~~~~
 
-The multimodal assignment revises the research paper into another mode.
-This assignment is worth 10-15% of the student’s final grade.
+The multimodal assignment revises the research paper into another mode. This assignment is worth 10-15% of the student's final grade.
 
 .. admonition:: Areas to Highlight
 
-    This assignment is perhaps the most individualized
-    by theme; however, problems with technology will the biggest issue.
-    Instructors should take advantage of Andrew Davis (Lamar Hall Ste. B, Rm
-    1)  to learn how to teach the technology to students. Instructors should
-    keep in mind that this assignment can be as low or high tech as wanted.
+    This assignment is perhaps the most individualized by theme; however, problems with technology will the biggest issue. Instructors should take advantage of `DWR's multimodal guide <https://rhetoric.olemiss.edu/student/multimodal/>`_ as well as Andrew Davis, our Instructional Design and Training Specialist for help in constructing assignments with different technology needs.  Instructors should keep in mind that this assignment can be as low or high tech as wanted. 
 
-    In general, since this assignment is most often paired with the research
-    papers, students may be tired of their subject or be reluctant to cut
-    their papers. Further, failures in the paper version may translate to
-    problems with the multimodal project. Try to return the research paper
-    back as quickly as possible to alleviate this issue and try not to
-    double-penalize them.
+    Since this assignment is paired with the research papers, students may be tired of their subject or be reluctant to cut their papers. Further, problems in the paper version may translate to problems with the multimodal project. Try to return the research paper back as quickly as possible to alleviate this issue and try not to double-penalize them. 
 
-Commonplace Book
-~~~~~~~~~~~~~~~~~
+Reflective Writing
+~~~~~~~~~~~~~~~~~~
 
-The commonplace book is a personalized space for recording, organizing,
-and reflecting on a student’s learning. This semester-long project
-incorporates daily, weekly, and unit reflections, culminating in a final
-reflective post. This assignment is worth 15% of the student’s final
-grade.
+The reflective writing space is a personalized space for recording, organizing, and reflecting on a student's learning. This semester-long project incorporates daily, weekly, and unit reflections, culminating in a final reflective post. This assignment is worth at least 15% of the student's final grade. This writing space has been currently hosted on https://edblogs.olemiss.edu/ but that may change in the future. Instructors may decide to have students compose in a handwritten journal, the Blackboard journal, or other online space.
+
+Instructors should keep in mind that this is a space for reflecting on their writing, not solely for short writings about the class theme readings or other short responses.
 
 .. admonition:: Areas to Highlight
 
-    Students are generally unfamiliar with
-    self-reflection and metacognition and need many opportunities throughout
-    the semester to practice. Many will need help with being more specific
-    about their learning. Students may have difficulty demonstrating their
-    progress, or lack thereof, through examples, often resorting to more
-    telling than showing. Students may also struggle to understand how
-    tagging can be a mechanism to represent the larger structures of their
-    learning.
+    Students are generally unfamiliar with self-reflection and metacognition and need many opportunities throughout the semester to practice. Many will need help with being more specific about their learning with guided questions as well as examples. Students may have difficulty demonstrating their progress, or lack thereof, through examples, often resorting to telling than showing. Students may also struggle to understand how tagging can be a mechanism to represent the larger structures of their learning. In WRIT 102, tagging is optional but students who have taken WRIT 100/101 should be encouraged to look at writing done over the first-year writing sequence as well as writing done in other contexts, both academic and non-academic.
 
 
 Themes
 ------
 
-There are five themes for WRIT 102. Each theme is based on the same
-assignment sequence and outcomes, but may use different texts.
+There are five themes for WRIT 102. Each theme is based on the same assignment sequence and outcomes, but may use different readings.
 
 Pop Culture
 ~~~~~~~~~~~~~~
@@ -230,10 +123,6 @@ culture? Students should come into this course prepared to examine
 critically and thoroughly a variety of media and sources that are often
 disregarded or taken for granted.
 
-.. admonition:: Required Texts:
-
-    * Maasik, Sonia and Jack Solomon, eds. *Signs of Life in the USA: Readings on Popular Culture for Writers*. 8th Edition. Boston: Bedford/St. Martin's, 2012.
-    * Reading Pop Culture: A Portable Anthology,* 2nd edition, Bedford/St. Martin's
 
 Power and Privilege
 ~~~~~~~~~~~~~~~~~~~~
@@ -248,14 +137,10 @@ engage this material through rhetorical techniques and strategies in a
 way that enables them to join these cultural and social justice
 conversations with conviction and credibility. The course may explore
 such questions as: How does socioeconomic status from an early age
-impact one’s path in life? Why is it so challenging to discuss systemic
+impact one's path in life? Why is it so challenging to discuss systemic
 issues of racism in America? How do traditional gender roles hurt
 American men?
 
-.. admonition:: Required Texts:
-
-    * Columbo, Gary, Robert Cullen, and Bonnie Lisle. *Rereading America* 10th edition. Boston: Bedford/St. Martin’s, 2016.li>
-    * Hacker, Diana, and Nancy Sommers. *A Writer’s Reference with Writing in the Disciplines*. 8th ed. Boston: Bedford/St. Martin’s, 2011
 
 Food
 ~~~~~~
@@ -270,11 +155,6 @@ on those who eat it. We may explore such questions as “How and why has
 our diet changed over time?” and “What has contributed to the obesity
 epidemic in Mississippi?”
 
-.. admonition:: Required Texts:
-
-    * Rollins, Brooke and Lee Bauknight, eds. *Food* Southlake, TX: Fountainhead Press, 2011.
-    * *Food: A Reader for Writers* Oxford University Press (Spring Semesters- SFA/DWR Common Read)
-    * **For Spring only:** Common read co-sponsored by the Southern Foodways Alliance and the DWR.
 
 Environment
 ~~~~~~~~~~~~
@@ -286,10 +166,6 @@ issues of impacting local ecologies and environments? We will read and
 analyze a variety of genres—literary, social commentary, cultural
 analyses, theory, and philosophy that relate to our theme.
 
-.. admonition:: Required Texts:
-
-    * McKibben, Bill, ed. *American Earth: Environmental Writing since Thoreau*. Library of America, 2008
-    * Hacker, Diana, and Nancy Sommers. *A Writer’s Reference with Writing in the Disciplines*. 8th ed. Boston: Bedford/St. Martin’s, 2011.
 
 Business
 ~~~~~~~~~
@@ -304,24 +180,11 @@ same legal rights as that of an individual person? Is out-sourcing jobs
 a good idea? What ethical obligations does a business have to the
 environment? to our health? to the nation?
 
-.. admonition:: Required Texts:
 
-    * Gillam, Kenneth M, ed. *Money*. Southlake, TX: Fountainhead Press, 2011.
-    * Hacker, Diana, and Nancy Sommers. *A Writer’s Reference with Writing in the Disciplines*. 8th ed. Boston: Bedford/St. Martin’s, 2011.
-
---------------
 
 Grading
 -------
 
-Rubrics for each project are available on the assignment library. There
-is a general essay rubric which can be used with papers 1, 2, 3, and the
-in-class essay. The multimodal and ePortfolio project have separate
-rubrics.
+Rubrics for each major project are available on the assignment library. Sharing the rubric with students at the beginning of each unit, and using the rubric to determine the project's final grade, helps students understand the expectations for each project and the reasons for the final grade. Using the rubric to determine grades also provides consistency across sections of Writing courses. Instructors should aim to complete grading within one week of submission.
 
-Sharing the rubric with students at the beginning of each unit, and
-using the rubric to determine the project’s final grade, helps students
-understand the expectations for each project and the reasons for the
-final grade. Using the rubric to determine grades also provides
-consistency across sections of Writing courses. Projects should be
-graded within one week of submission.
+Instructors who use alternate grading may look at the rubrics to help shape these different assessment strategies.
