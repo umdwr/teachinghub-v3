@@ -5,11 +5,10 @@
 
 DWR Teaching Hub
 ============================================
-Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching resources from the Department of Writing and Rhetoric. The Hub contains curriculum materials, teaching guides, and vetted assignments for DWR writing and speech courses. All content on the DWR Teaching Hub is licensed under a Creative Commons Attribution 4.0 International License unless otherwise indicated.
 
 .. Note:: 
 
-   .. image:: assets/thlogo.png
+   .. image:: assets/thlogo-blue.png
       :alt: myDWR Teaching Hub Logo
       :width: 150 px
       :align: center 
@@ -17,14 +16,7 @@ Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching reso
    
    The DWR Teaching Hub is migrating to myDWR! This will allow for better tracking of assignment usage and the possibility for instructors to submit new assignments and teaching guides for review. Also, securing our content behind a login mitigates the risk of misuse by external parties. Links are updated accordingly as content is migrated. 
 
-   **Migrated Content**:  
-   - WRIT 100/101 Teaching Guide  
-   - WRIT 100/101 Assignment Library
-   - WRIT 102 Teaching Guide
-   - SPCH 102 Teaching Guide
-   - SPCH 102 Assignment Library
-   - WRIT 440 Teaching Guide
-   - DMS/DMDS 101 Teaching Guide
+   **Migrated Content**: WRIT 100/101 Teaching Guide, WRIT 100/101 Assignment Library, WRIT 102 Teaching Guide, SPCH 102 Teaching Guide, SPCH 102 Assignment Library, WRIT 440 Teaching Guide, DMS/DMDS 101 Teaching Guide
 
 
 .. toctree::
