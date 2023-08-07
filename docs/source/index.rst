@@ -11,6 +11,7 @@ DWR Teaching Hub
    .. image:: assets/thlogo-blue.png
       :alt: myDWR Teaching Hub Logo
       :width: 150 px
+      :margin: 5 px
       :align: center 
       :target: https://olemiss.sharepoint.com/sites/DWRAdmin/th
    
