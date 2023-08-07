@@ -68,7 +68,7 @@ The quiz assessments are where students will be asked to enter payment. When stu
 
 Making RhetLab Part of the Class
 ---------------------------------
-It is essential for students to see the Lumen Waymaker modules as valuable to their learning and as an integral part of the class. As such, the modules should be part of a homework score worth between 10%-15% of the final course grade. Teachers may count the modules as the sole component of the homework grade, or they may include other assignments and factor the work 
+It is essential for students to see the Lumen Waymaker modules as valuable to their learning and as an integral part of the class. As such, the modules should be part of a homework score worth between 15%-20% of the final course grade. Teachers may count the modules as the sole component of the homework grade, or they may include other assignments and factor the work 
 altogether. This range works best because it is substantive enough to demand students’ attention, but it leaves the vast majority of the final grade to be determined by papers, projects, and other writing.
 
 Teachers should help students see the modules as an important part of the class. This can happen in several ways:
