@@ -9,13 +9,13 @@ Welcome to the DWR Teaching Hub, the openly-licensed collection of teaching reso
 
 .. Note:: 
 
-   .. image:: assets/mydwr.png
-      :alt: My DWR Logo
+   .. image:: assets/thlogo.png
+      :alt: myDWR Teaching Hub Logo
       :width: 150 px
       :align: center 
-      :target: https://olemiss.sharepoint.com/sites/DWRAdmin
+      :target: https://olemiss.sharepoint.com/sites/DWRAdmin/th
    
-   To upload a syllabus, change your office hours, schedule an observation, etc., visit `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin>`_. Can't access myDWR? Be sure you have `joined the myDWR user group <https://teams.microsoft.com/l/team/19%3afb0f264ae88b41c49040dd7264c3f6f4%40thread.skype/conversations?groupId=d0932355-a087-4440-b545-b11937a76ced&tenantId=69a9c930-1dbb-4630-bdd5-d28b8f680aae>`_ 
+   The DWR Teaching Hub is migrating to myDWR! This will allow for better tracking of assignment usage and the possibility for instructors to submit new assignments and teaching guides for review. Also, securing our content behind a login mitigates the risk of misuse by external parties. Links are updated accordingly as content is migrated. 
 
 
 .. toctree::
