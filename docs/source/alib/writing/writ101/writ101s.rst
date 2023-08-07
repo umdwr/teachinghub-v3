@@ -1,6 +1,10 @@
 =========================================
 WRIT 100/101 with *The Writer's Practice*
 =========================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/alib-writ101.aspx'" />
+
 .. sidebar:: Contents
 
     .. contents:: 

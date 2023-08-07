@@ -1,6 +1,10 @@
 =======================================
 WRIT 100/101 with National Public Radio
 =======================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/alib-writ101.aspx'" />
+   
 Welcome to the Writing 100/101 NPR assignment library. Assignment sheets, rubrics, and student samples are available under each project content area.
 
 .. raw:: html

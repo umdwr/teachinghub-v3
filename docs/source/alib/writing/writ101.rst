@@ -1,6 +1,10 @@
 ================================
 WRIT 100/101 Assignment Library
 ================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/alib-writ101.aspx'" />
+
 Writing 100 and 101 follow the same outcomes and use common assignments. Teachers have multiple curriculum options, and some may choose to combine the options.  Select the course flavor below.
 
 .. toctree::

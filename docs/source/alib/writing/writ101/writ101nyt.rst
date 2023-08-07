@@ -1,6 +1,11 @@
 ======================================
 WRIT 100/101 with *The New York Times*
 ======================================
+
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/alib-writ101.aspx'" />
+   
 .. admonition:: See Also
 
     * Required Text: A semester-long subscription to The New York Times
