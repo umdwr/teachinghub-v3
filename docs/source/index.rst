@@ -11,13 +11,19 @@ DWR Teaching Hub
    .. image:: assets/thlogo-blue.png
       :alt: myDWR Teaching Hub Logo
       :width: 150 px
-      :margin: 5 px
       :align: center 
       :target: https://olemiss.sharepoint.com/sites/DWRAdmin/th
    
-   The DWR Teaching Hub is migrating to myDWR! This will allow for better tracking of assignment usage and the possibility for instructors to submit new assignments and teaching guides for review. Also, securing our content behind a login mitigates the risk of misuse by external parties. Links are updated accordingly as content is migrated. 
+   
+   The DWR Teaching Hub is migrating to myDWR! This will allow for better tracking of assignment usage and the possibility for instructors to submit new assignments and teaching guides for review. Also, securing our content behind a login mitigates the risk of misuse by external parties. Links are updated accordingly as content is migrated. As of August 2023, the following content has been migrated: 
 
-   **Migrated Content**: WRIT 100/101 Teaching Guide, WRIT 100/101 Assignment Library, WRIT 102 Teaching Guide, SPCH 102 Teaching Guide, SPCH 102 Assignment Library, WRIT 440 Teaching Guide, DMS/DMDS 101 Teaching Guide
+   - WRIT 100/101 Teaching Guide
+   - WRIT 100/101 Assignment Library
+   - WRIT 102 Teaching Guide
+   - SPCH 102 Teaching Guide
+   - SPCH 102 Assignment Library
+   - WRIT 440 Teaching Guide
+   - DMS/DMDS 101 Teaching Guide
 
 
 .. toctree::
