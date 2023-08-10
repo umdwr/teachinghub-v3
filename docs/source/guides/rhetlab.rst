@@ -31,13 +31,13 @@ The Lumen Waymaker courseware integrates seamlessly with your Blackboard course.
 
 .. admonition:: Installation Instructions
 
-    .. image:: /assets/mydwr.png
-      :alt: My DWR Logo
+    .. image:: /assets/thlogo-blue.png
+      :alt: My DWR TH Logo
       :width: 150 px
       :align: center 
-      :target: https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx
+      :target: https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/blackboard.aspx
 
-    Find the RhetLab Blackboard package and Installation instructions on `myDWR <https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/Rapid-Response-Team.aspx>`_
+    Find the RhetLab Blackboard package and Installation instructions on the new `myDWR Teaching Hub <https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/blackboard.aspx>`_
 
     
 Best Practices
