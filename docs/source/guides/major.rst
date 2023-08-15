@@ -22,10 +22,10 @@ Elevator Pitch
 --------------
 
 .. field:: Elevator Pitch
-:Define rhetoric: The study and practice of effective communication
-:Connect to course: How does your course do this?   
-:What they could do with/in major: Rhetoric majors go on to graduate school, work in things like corporate communication, writing, editing, public advocacy, or anything that involves writing and/or speaking.    
-:Call to action: Have Karen reach out to them for more information!   
+:Define rhetoric: The study and practice of effective communication. 
+:Connect to course: How does your course do this? 
+:What they could do with/in major: Rhetoric majors go on to graduate school, work in things like corporate communication, writing, editing, public advocacy, or anything that involves writing and/or speaking.  
+:Call to action: Have Karen reach out to them for more information! 
 
 .. Admonition:: Example Class Announcements 
 
