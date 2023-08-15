@@ -20,26 +20,26 @@ Ethos
 =====
 While email does allow for instant communication in an online course, the online environment can provide other means of being “there” for students, means that go beyond the email communication of traditional face-to-face classes. Here are some techniques that veteran online teachers have found useful for reaching students when they need more than a standard email:
 
-Apps such as Google Hangouts and Skype tend to work fairly well for conferencing with students, but we’ve had the best experience with Zoom. Zoom allows instructors to start a meeting with a student by sending that student a link to the meeting via email. Students don’t need to set up Zoom accounts; as long as the instructor has the student’s email address and an account of her own, the meeting link will work. All faculty members in the DWR have UM Zoom accounts. Contact Andrew Davis if you can't access your account.
+Apps such as Google Hangouts and Skype tend to work fairly well for conferencing with students, but we've had the best experience with Zoom. Zoom allows instructors to start a meeting with a student by sending that student a link to the meeting via email. Students don't need to set up Zoom accounts; as long as the instructor has the student's email address and an account of her own, the meeting link will work. All faculty members in the DWR have UM Zoom accounts. Contact Andrew Davis if you can't access your account.
 
-During your office hours, log on to whichever conferencing app you’ve chosen. If you’ve chosen Skype or Google Hangouts, any students logged into these apps will see that you’re available. Even if they choose not to contact you during that time, your visibility sends an important message.
+During your office hours, log on to whichever conferencing app you've chosen. If you've chosen Skype or Google Hangouts, any students logged into these apps will see that you're available. Even if they choose not to contact you during that time, your visibility sends an important message.
 
 Offer multiple conferencing apps if you can. Both Skype and Zoom, for instance, or both Google Hangouts and Zoom–and remain logged into these apps during your office hours. Some students might already have accounts with one app or another, so offering a range of meeting platforms makes it easier for students to contact you. For some students, mobile apps, such as FaceTime and Duo, may be the only option. Try to be flexible and adjust your expectations for formality if face-to-face conversation is essential.
 
-If your teaching style involves posting weekly announcements, don’t simply email these announcements as text. Instead, try making a YouTube video of just you narrating the announcements to your students. Often, these announcements merely reiterate what students can find on their weekly schedule or in the syllabus, but having this kind of weekly reminder can help students stay on task, and help keep your face and voice in a very text-heavy environment. You can post links to your YouTube video directly in the course and email it to students. Pair your link to the YouTube announcements with a bullet-point synopsis, and use YouTube’s closed captioning feature. Pairing text with video helps keep this content accessible.
+If your teaching style involves posting weekly announcements, don't simply email these announcements as text. Instead, try making a YouTube video of just you narrating the announcements to your students. Often, these announcements merely reiterate what students can find on their weekly schedule or in the syllabus, but having this kind of weekly reminder can help students stay on task, and help keep your face and voice in a very text-heavy environment. You can post links to your YouTube video directly in the course and email it to students. Pair your link to the YouTube announcements with a bullet-point synopsis, and use YouTube's closed captioning feature. Pairing text with video helps keep this content accessible.
 
-If a student emails you with a persistent problem, question, or issue, invite them to set up a conference with you, and do so repeatedly. Even if students don’t take you up on this offer–and many tend not to–make it clear that they are welcome to do so. This is the equivalent of keeping your door open during office hours; it also sends the message that, within the time you’ve set aside to teach the class, students are welcome to come meet with you. Not extending this welcome repeatedly and actively can make an online instructor seem aloof and distant.
+If a student emails you with a persistent problem, question, or issue, invite them to set up a conference with you, and do so repeatedly. Even if students don't take you up on this offer–and many tend not to–make it clear that they are welcome to do so. This is the equivalent of keeping your door open during office hours; it also sends the message that, within the time you've set aside to teach the class, students are welcome to come meet with you. Not extending this welcome repeatedly and actively can make an online instructor seem aloof and distant.
 
-And, of course, make it clear when students can’t contact you. If you tell students from the first week that you won’t be able to respond quickly or at all on weekends, most students will be understanding and respectful of this boundary. However, you might want to consider setting aside some late afternoon or evening times during the weekdays, since these times tend to be the most available for online students. Students are often taking online courses because their schedules are otherwise full. While the boundaries on your time need to be clearly stated, a little flexibility can go a long way.
+And, of course, make it clear when students can't contact you. If you tell students from the first week that you won't be able to respond quickly or at all on weekends, most students will be understanding and respectful of this boundary. However, you might want to consider setting aside some late afternoon or evening times during the weekdays, since these times tend to be the most available for online students. Students are often taking online courses because their schedules are otherwise full. While the boundaries on your time need to be clearly stated, a little flexibility can go a long way.
 While teaching online precludes the possibility of being physically present for most students, techniques such as those outlined above can help establish the ethos of a face-to-face instructor, while offering a scheduling flexibility that the traditional classroom might lack.
 
 Office Hours
 ============
-Holding office hours virtually can be tricky. How do you provide the accessibility your students’ need, especially if you live in a different town or city? What’s the best way to help your students with assignments from afar? What do students find most comfortable and convenient for them? There are several options to make your office hours convenient for both you and your students. Here is the Department of Writing & Rhetoric’s policy regarding office hours:
+Holding office hours virtually can be tricky. How do you provide the accessibility your students' need, especially if you live in a different town or city? What's the best way to help your students with assignments from afar? What do students find most comfortable and convenient for them? There are several options to make your office hours convenient for both you and your students. Here is the Department of Writing & Rhetoric's policy regarding office hours:
 
 Teachers in the W&R are expected to hold regular office hours for the purpose of supporting the teaching mission through student conferencing. All teachers in the W&R are asked to hold a minimum of one weekly office hour per section taught, but no less than two hours per week. Please submit your office hours, posted on your syllabus, electronically to Glenn Schove no later than three working days prior to the first day of classes each semester.
 
-In order to fulfill the Department’s policy, you will need to maintain between two to four office hours per week (depending on the number of sections you teach). These are times that your students should be able to contact you to discuss their writing. Here are several options that online students tend to favor:
+In order to fulfill the Department's policy, you will need to maintain between two to four office hours per week (depending on the number of sections you teach). These are times that your students should be able to contact you to discuss their writing. Here are several options that online students tend to favor:
 
 Continually check email during your posted office hours (remain logged into email account). We have found that most students tend to prefer to communicate through email rather than video conferencing or by phone.
 
@@ -47,7 +47,7 @@ You can provide students with a phone number to call to discuss their writing du
 
 You can leave a video conferencing meeting open in a specified platform, letting students know they can access it at any time during your office hours to conference.
 
-You can also combine several of these, or offer all of them, depending on your and your students’ preferences. For example, you can leave your email running during your office hours, and let students know they can email to ask questions, or email to request a video conference. At which time, you can send them a link to meet.
+You can also combine several of these, or offer all of them, depending on your and your students' preferences. For example, you can leave your email running during your office hours, and let students know they can email to ask questions, or email to request a video conference. At which time, you can send them a link to meet.
 The most important thing is to let your students know that you are available to assist them with the various writing and multimodal assignments they will compose during the semester. It is also vital that you provide clear instruction as to how your office hours will work, and how students can take advantage of that time if they so choose. The best way to do this is to create an “Office Hours” tab in blackboard. When students click that tab, they should be able to read when you are available, and how they can access whatever platform you choose to use during office hours. We have also noticed that online students tend to have very demanding schedules, where they balance work, school, and families. For this reason, we highly recommend that you remain available to meet with students by appointment. That way, if your office hours are not convenient for some students, they will know they can still meet you with at a mutually convenient time.
 
 .. admonition:: Office Hour Scheduling Tools
@@ -166,9 +166,9 @@ Zoom
 ----
 .. sidebar:: Helpful Links
 
-    * `Zoom Technical Support Pages <https://support.zoom.us/hc/en-us>`_files
+    * `Zoom Technical Support Pages <https://support.zoom.us/hc/en-us>`_
   
-All UM faculty, staff, and students have centrally managed Zoom accounts for video meetings. Please visit Zoom’s Getting Started page for more information about downloading and using Zoom.
+All UM faculty, staff, and students have centrally managed Zoom accounts for video meetings. Please visit Zoom's Getting Started page for more information about downloading and using Zoom.
 
 When signing in to Zoom, select “Sign in with SSO” and enter the domain “olemiss.” You can also go directly to https://olemiss.zoom.us. You will be prompted to sign in with your MyOleMiss credentials.
 
@@ -200,9 +200,9 @@ For managing your students
 --------------------------
 **Choose one form of communication with your students and stick to it.** In focus groups, students said they preferred information to be posted in the announcements section of your Blackboard page, and then sent to them via Blackboard email to their UM email.
 
-**Communicate with your students** early and frequently. Cultivating a sense that you are present with the students in a meaningful if non-literal sense is crucial to successful online teaching. Begin the online experience with some kind of very low stakes community-building exercise, deployed as early as possible, to help students feel like they’re part of a community rather than individuals accessing course materials in parallel, isolated from each other.
+**Communicate with your students** early and frequently. Cultivating a sense that you are present with the students in a meaningful if non-literal sense is crucial to successful online teaching. Begin the online experience with some kind of very low stakes community-building exercise, deployed as early as possible, to help students feel like they're part of a community rather than individuals accessing course materials in parallel, isolated from each other.
 
-**Use tools and approaches familiar to you and your students:** Try to rely on tools and workflows that are familiar to you and your students, and roll out new tools only when absolutely necessary. If a closure is caused by a local crisis, it may be already taxing everyone’s mental and emotional energy; introducing a lot of new tools and approaches may leave even less energy and attention for learning.
+**Use tools and approaches familiar to you and your students:** Try to rely on tools and workflows that are familiar to you and your students, and roll out new tools only when absolutely necessary. If a closure is caused by a local crisis, it may be already taxing everyone's mental and emotional energy; introducing a lot of new tools and approaches may leave even less energy and attention for learning.
 
 **Contact Andrew Davis** if you have a student who is utilizing classroom accommodations so you can be sure to maintain those during periods of academic disruption.
 
@@ -214,7 +214,7 @@ For managing your course
 ------------------------
 **Focus on learning outcomes** even if you need to adjust the specific activities that contribute to those outcomes. Keep students moving toward those outcomes. Avoid “busy work.”
 
-**Prioritize course activities** and focus on delivering the ones with the most significant impact on learning outcomes. You will have to reconsider some of your expectations for students, including participation, attendance, communication, and deadlines. As you think through those changes, keep in mind the impact this situation may have on students’ ability to meet those expectations, including illness, lacking power or internet connections, or needing to care for family members. Be ready to handle requests for extensions or accommodations equitably.
+**Prioritize course activities** and focus on delivering the ones with the most significant impact on learning outcomes. You will have to reconsider some of your expectations for students, including participation, attendance, communication, and deadlines. As you think through those changes, keep in mind the impact this situation may have on students' ability to meet those expectations, including illness, lacking power or internet connections, or needing to care for family members. Be ready to handle requests for extensions or accommodations equitably.
 
 **Rearrange course activities** if needed to delay those activities where face-to-face interaction is most crucial.
 
@@ -248,7 +248,7 @@ Correspondence Appointments
 Correspondence appointments are asynchronous and ideal for getting feedback and answers to questions over a longer period of time. Students provide their draft along with information/requirements for a writing assignment prior to the reserved appointment time. About an hour after the reservation time, the student will receive an email notification that feedback has been uploaded by the writing consultant. These appointments can be completed without a consistent internet connection. A student can upload their paper from any wi-fi connection and return to our scheduler at a later time to download their written feedback.
 If you or your students have any questions, please visit our website for more information and step by step instructions: https://rhetoric.olemiss.edu/writing-centers/online/
 
-You can find the most current information on UM’s response to coronavirus at https://olemiss.edu/coronavirus.
+You can find the most current information on UM's response to coronavirus at https://olemiss.edu/coronavirus.
 
 *Note: In the event of an institution wide closure, please do not require your students to use the WCs as we will likely be operating at a lower staffing capacity. You are welcome to offer extra credit or incentives, but please keep in mind that our online services may be in high demand across all campuses and department*
 
@@ -256,7 +256,7 @@ Library
 =======
 Library Building Hours
 ----------------------
-The library building is open for the time being, from 7am-5pm this week and 7am-7pm for the following weeks. This is subject to change, but you can go to the `Library hours page <https://libraries.olemiss.edu/calendar-hours/>`_ for a full up-to-date schedule. All carrels are open, books can be checked out, library computers/printers/scanners are available, and `StudioOne is open <https://calendar.lib.olemiss.edu/allspaces`_> for filming and reservations.
+The library building is open for the time being, from 7am-5pm this week and 7am-7pm for the following weeks. This is subject to change, but you can go to the `Library hours page <https://libraries.olemiss.edu/calendar-hours/>`_ for a full up-to-date schedule. All carrels are open, books can be checked out, library computers/printers/scanners are available, and `StudioOne is open <https://calendar.lib.olemiss.edu/allspaces>`_ for filming and reservations.
 
 The IDEALab, Starbucks, and group study rooms are currently closed.
 
