@@ -1,5 +1,10 @@
 Teaching in the Major
 =====================
+
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/tg-writ101.aspx'" />
+
 The Teaching Guide for the Major in Rhetoric is under development. 
 
 .. admonition:: Recommend a Student
