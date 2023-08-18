@@ -59,18 +59,6 @@ The student will:
 
 -------------------------------------
 
-In-Class Writing
------------------
-The in-class essay is a timed writing exercise where students may do similar work as in papers 1 and 2 in that students might be asked to respond to a particular text or argument or evaluate a text’s argument. This may be related to paper #3, the research paper. The in-class essay is worth 5% of the student’s final grade.
-
-Areas to highlight: Timed writing can be intimidating to many students. Going over strategies to alleviate stress will be useful for this assignment and any future essay exam. Because the writing is so short, students may believe the writing process does not apply but instructors should model how to use brainstorming/outlining, drafting, and revision in this context, with special attention to time management. Students who do not do well in this assignment often do not prepare well for the in-class essay (by not bringing a required essay or optional notes) or do not read the prompt carefully. These areas should be addressed; Instructors may also opt for a practice timed essay in class.
-
-.. raw:: html
-
-    <iframe src="https://app.box.com/embed_widget/s/fyc3s0gt0j2cpyv6raymhx7lrf7bu0yl?view=list&sort=name&direction=ASC&theme=blue" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-
--------------------------------------
-
 Research Paper
 --------------
 Paper #3 is the research paper where students will come up with their research question in the context of the class theme. This paper should be 7-9 pages and use at least seven credible sources. This assignment is worth 20% of the student’s final grade.
