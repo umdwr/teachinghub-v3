@@ -1,6 +1,11 @@
 =====================
 Corequisite WRIT 101
 =====================
+
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/tg-writ100coreq.aspx'" />
+
 .. admonition:: See Also
 
     * :doc:`WRIT 100/101 Teaching Guide <writ101>`
