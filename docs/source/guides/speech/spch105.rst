@@ -1,6 +1,10 @@
 ===================================================
 SPCH 105: Business and Professional Speech
 ===================================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/tg-spch105.aspx'" />
+
 .. sidebar:: Contents
 
     .. contents:: 
