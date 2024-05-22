@@ -1,6 +1,10 @@
 =====================
 Teaching in the Minor
 =====================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/SitePages/recruitment-pwm.aspx'" />
+
 The Minor in Professional Writing prepares students to be successful communicators in their future careers. Coursework teaches students common workplace communication genres and equips them with skills such as teamwork/collaborative communication, problem-solving, project management, digital composing, technical writing, editing, and critical thinking.
 
 The Teaching Guide for the Minor in Professional Writing is coming soon. 
