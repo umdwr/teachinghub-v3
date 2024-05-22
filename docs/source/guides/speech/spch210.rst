@@ -1,6 +1,10 @@
 ===================================================
 SPCH 210: The Art of the Interview
 ===================================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/tg-spch210.aspx'" />
+
 .. sidebar:: Contents
 
     .. contents:: 
