@@ -1,6 +1,10 @@
 ================================
 WRIT 250 Assignment Library
 ================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/alib-writ250.aspx'" />
+
 .. admonition:: See Also
 
     * :doc:`WRIT 250 Teaching Guide </guides/writing/writ250>`
