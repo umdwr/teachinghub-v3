@@ -1,6 +1,10 @@
 ==============================
 Common Reading Resource Guide
 ==============================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/tg-cre.aspx'" />
+
 .. image:: /assets/cre-logo.png
 
 .. admonition:: See Also
