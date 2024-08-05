@@ -1,6 +1,10 @@
 ================================
 Reflection in First Year Writing
 ================================
+.. raw:: html
+
+   <meta http-equiv="Refresh" content="0; url='https://olemiss.sharepoint.com/sites/DWRAdmin/th/SitePages/tg-reflection.aspx'" />
+
 .. sidebar:: Contents
 
     .. contents::
